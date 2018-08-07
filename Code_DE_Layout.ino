@@ -32,7 +32,7 @@ void loop() {
   DigiKeyboard.print("exit");
   DigiKeyboard.sendKeyStroke(KEY_ENTER);
 
-  // Exploit
+  // Exploit (Add your code here)
   
   
   
